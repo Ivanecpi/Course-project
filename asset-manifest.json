@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/course-project/static/css/main.d802c456.chunk.css",
+    "main.js": "/course-project/static/js/main.3a8f8b9d.chunk.js",
+    "main.js.map": "/course-project/static/js/main.3a8f8b9d.chunk.js.map",
+    "runtime-main.js": "/course-project/static/js/runtime-main.9276f70a.js",
+    "runtime-main.js.map": "/course-project/static/js/runtime-main.9276f70a.js.map",
+    "static/js/2.6394cd40.chunk.js": "/course-project/static/js/2.6394cd40.chunk.js",
+    "static/js/2.6394cd40.chunk.js.map": "/course-project/static/js/2.6394cd40.chunk.js.map",
+    "index.html": "/course-project/index.html",
+    "precache-manifest.69576259c9abdd99a94f6e4cbea6f94c.js": "/course-project/precache-manifest.69576259c9abdd99a94f6e4cbea6f94c.js",
+    "service-worker.js": "/course-project/service-worker.js",
+    "static/css/main.d802c456.chunk.css.map": "/course-project/static/css/main.d802c456.chunk.css.map",
+    "static/js/2.6394cd40.chunk.js.LICENSE.txt": "/course-project/static/js/2.6394cd40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9276f70a.js",
+    "static/js/2.6394cd40.chunk.js",
+    "static/css/main.d802c456.chunk.css",
+    "static/js/main.3a8f8b9d.chunk.js"
+  ]
+}
